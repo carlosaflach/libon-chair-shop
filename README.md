@@ -18,7 +18,7 @@ In this project I used these skills:
 
 ### Get To Know The Project
 
-- Live Site URL: [Project Lisbon Chair Project](https://lisbon-chair-shop.vercel.app/)
+- App: [Project Lisbon Chair Project](https://lisbon-chair-shop.vercel.app/)
 
 
 ## Created By:
